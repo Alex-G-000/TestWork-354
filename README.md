@@ -9,7 +9,7 @@ company: AbeloHost
 
 ### Login details
 
-url: https://testwork-354.alexey-dev.site/wp-admin/
-login: AbeloHost
-pass: sj3Mv9I$LdsOd#G7XS
+url: *https://testwork-354.alexey-dev.site/wp-admin/*
+<br>login: *AbeloHost*
+<br>pass: *sj3Mv9I$LdsOd#G7XS*
  
