@@ -1,0 +1,40 @@
+.tw-form {  
+
+    &__row{
+        margin-bottom: 12px;
+
+        &:last-child {
+            margin-top: 24px;
+        }
+
+        label {
+            padding-right: 10px;
+            min-width: 80px;
+        }
+    }
+
+    &__postbox{
+        min-width: 150px;
+        margin-bottom: 0;
+    }
+
+    &__button {
+        min-width: 150px;
+        text-align: center;
+
+        &:first-child{
+            margin-right: 10px;
+        }
+    }
+
+    &__img-container {
+        img {
+            max-width: 200px;
+        }
+    }
+
+    &__img-btn{
+        margin-top: 4px;
+    }
+
+}
